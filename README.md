@@ -1,2 +1,4 @@
-# Practicing_repo
-# repoforpractice
+#!/bin/bash
+#shell script examples
+
+
